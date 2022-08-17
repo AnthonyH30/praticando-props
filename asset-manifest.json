@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/anthonyh30.github.io/praticando-props/static/css/main.e6c13ad2.css",
+    "main.js": "/anthonyh30.github.io/praticando-props/static/js/main.ff0e4603.js",
+    "static/media/photo.jpg": "/anthonyh30.github.io/praticando-props/static/media/photo.9c623fee8aebfa50665a.jpg",
+    "index.html": "/anthonyh30.github.io/praticando-props/index.html",
+    "main.e6c13ad2.css.map": "/anthonyh30.github.io/praticando-props/static/css/main.e6c13ad2.css.map",
+    "main.ff0e4603.js.map": "/anthonyh30.github.io/praticando-props/static/js/main.ff0e4603.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ff0e4603.js"
+  ]
+}
